@@ -1,8 +1,8 @@
 ## Hi! Olá! Hola! Eu sou o Emerson Rodrigues :checkered_flag:
 
-- 🔭 Trabalho com Front-End
+- 🔭 Sou Analista de dados
 - 🌱 Estudando Python, Data-Science, R, Idioma Inglês, Bibliotecas de desenvolvimento em front-end  
-- 👨‍🎓 Design Responsivo para a Web
+- 👨‍🎓 Analista de Sistemas
 -  Hobbies: 🛫📸�🚵‍♂️🏍️
 
 
