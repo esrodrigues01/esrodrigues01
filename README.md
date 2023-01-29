@@ -1,9 +1,22 @@
-## Hi! Olá! Hola! Eu sou o Emerson Rodrigues :checkered_flag:
+## Hi! Olá! Hola! Eu sou o Emerson Rodrigues 
 
-- 🔭 Sou Analista de dados
-- 🌱 Estudando Python, Data-Science, R, Idioma Inglês, Bibliotecas de desenvolvimento em front-end  
-- 👨‍🎓 Analista de Sistemas
--  Hobbies: 🛫📸�🚵‍♂️🏍️
+## Seja bem-vindo ao meu perfil de Analista de Dados Jr. :checkered_flag: 🇧🇷
+Sou um entusiasta em dados com uma forte paixão por transformar informações em insights valiosos. Com minha formação em estatística e minha experiência em análise de dados, estou ansioso por aplicar meus conhecimentos e habilidades em um ambiente de trabalho desafiador.
+
+### Habilidades
+Análise exploratória de dados: manipulação de dados com pandas, numpy e SQL.
+Visualização de dados: criação de gráficos e dashboards interativos com ferramentas como matplotlib, seaborn e Tableau.
+Conhecimento básico de machine learning: compreensão de modelos de aprendizado de máquina, como regressão linear e árvores de decisão.
+### Projetos Destacados
+Análise de vendas: Realizei uma análise exploratória de dados de vendas para identificar padrões e tendências.
+Previsão de demanda: Construí um modelo de previsão de demanda básico usando regressão linear para prever a demanda futura de um produto.
+Visualização de dados de tráfego de website: Desenvolvi um dashboard interativo para visualizar dados de tráfego de website em tempo real.
+### Ferramentas e tecnologias
+Python (pandas, numpy, matplotlib, seaborn)
+SQL
+Tableau
+Microsoft Excel
+Estou animado para aprender e crescer como Analista de Dados e ajudar a sua empresa a extrair insights valiosos dos seus dados. Entre em contato para discutir como posso ser útil.
 
 
 ## 
